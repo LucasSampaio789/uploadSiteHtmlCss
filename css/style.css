@@ -1,0 +1,58 @@
+body{
+    background: #000000;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    color: #000000;
+    background: #FFFFFF; 
+    text-shadow: 1px 1px 1px #000;
+    font-family: arial;
+    border: 10px solid #FFFFFF;
+        }
+hr{
+    max-width: 100%;
+}
+figure{
+    font-size: 20px;
+    text-align: center;
+    color: #DCDCDC;
+}
+h2{
+    text-align: center;
+    color: #DCDCDC;
+    background: Indigo;
+    font-family: arial;
+}
+.texto{
+    margin: 10px;
+    text-align: justify;
+    color: #DCDCDC;
+    font-size: 17px;
+    font-family: arial;
+}
+h3{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: arial;
+
+}
+.secundário{
+    text-align: justify;
+    color: #DCDCDC;
+    font-size: 17px;
+    font-family: arial;
+    padding: 20px;
+}
+ul{
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 02%;
+}
+.competencia{
+width: 50%;
+}
+
